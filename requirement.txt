@@ -1,0 +1,6 @@
+openai
+python-dotenv
+gradio
+streamlit
+google-genai
+google-generativeai
